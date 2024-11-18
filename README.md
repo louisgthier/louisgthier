@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Louis Gauthier
 
-<!--
-**louisgthier/louisgthier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year engineering student at CentraleSupélec, majoring in **Artificial Intelligence**. I'm passionate about building innovative solutions in AI, software engineering, and blockchain.
 
-Here are some ideas to get you started:
+🔍 **Actively seeking a 5–6 month internship in AI starting May 2025.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills
+- **AI & Machine Learning:** Deep learning, reinforcement learning, LLMs, and computer vision.
+- **Software Development:** Python, C#, Solidity, JavaScript, Unity, and full-stack web development.
+- **Blockchain:** Smart contracts, DApps, and token creation.
+
+---
+
+### 📫 Contact
+- **Website:** [dgwave.net](https://dgwave.net)  
+- **Email:** [louis@dgwave.net](mailto:louis@dgwave.net)  
+- **LinkedIn:** [Louis Gauthier](https://linkedin.com/in/your-profile)
+
+Feel free to explore my repositories to see my work!
