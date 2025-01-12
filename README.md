@@ -16,6 +16,6 @@
 ### 📫 Contact
 - **Website:** [dgwave.net](https://dgwave.net)  
 - **Email:** [louis@dgwave.net](mailto:louis@dgwave.net)  
-- **LinkedIn:** [Louis Gauthier](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Louis Gauthier](https://linkedin.com/in/louis-gthier)
 
 Feel free to explore my repositories to see my work!
